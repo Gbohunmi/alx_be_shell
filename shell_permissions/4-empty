@@ -1,2 +1,2 @@
-#!/bin/basih
-vim hello
+#!/bin/bash
+vim hello.txt
